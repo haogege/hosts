@@ -10,18 +10,25 @@
 31.13.66.96 login.facebook.com
 31.13.66.96 m.facebook.com
 31.13.66.96 orcart.facebook.com
+31.13.66.96 orcart.t.facebook.com
 31.13.66.96 pixel.facebook.com
 31.13.66.96 star.facebook.com
 31.13.66.96 touch.facebook.com
 31.13.66.96 upload.facebook.com
 31.13.66.96 www.facebook.com
 31.13.66.96 zh-cn.facebook.com
+31.13.66.96 z-m-api.facebook.com
+31.13.66.96 z-m-graph.facebook.com
 
-31.13.66.96 s-static.ak.facebook.com
+23.42.178.110 s-static.ak.facebook.com
 
+31.13.78.71 external.xx.fbcdn.net
 31.13.78.71 scontent-a.xx.fbcdn.net
 31.13.78.71 scontent-b.xx.fbcdn.net
-31.13.78.71 external.xx.fbcdn.net
+31.13.78.71 sxternal.xx.fbcdn.net
+
+203.186.47.41 video.ak.fbcdn.net
+203.186.47.33 video.ak.fbcdn.net
 #Facebook End
 
 #GitHub Start
