@@ -81,6 +81,17 @@ cname=mobile.tudou.com,channels.tudou.com
 
 cname=v.tudou.com,www.tudou.com
 
+cname=i2.tdimg.com,mfs.ykimg.com
+cname=i3.tdimg.com,mfs.ykimg.com
+cname=i4.tdimg.com,mfs.ykimg.com
+
+cname=g1.tdimg.com,mfs.ykimg.com
+cname=g2.tdimg.com,mfs.ykimg.com
+cname=g3.tdimg.com,mfs.ykimg.com
+cname=g4.tdimg.com,mfs.ykimg.com
+
+cname=ui.tudou.com,ui.tudouui.com
+
 cname=u1.tdimg.com,mfs.ykimg.com
 cname=u2.tdimg.com,mfs.ykimg.com
 cname=u3.tdimg.com,mfs.ykimg.com
@@ -192,13 +203,4 @@ cname=i1.tdimg.com,mfs.ykimg.com
 58.83.178.15    v2.tudou.com
 58.83.178.17    v2.tudou.com
 
-cname=i2.tdimg.com,mfs.ykimg.com
-cname=i3.tdimg.com,mfs.ykimg.com
-cname=i4.tdimg.com,mfs.ykimg.com
 
-cname=g1.tdimg.com,mfs.ykimg.com
-cname=g2.tdimg.com,mfs.ykimg.com
-cname=g3.tdimg.com,mfs.ykimg.com
-cname=g4.tdimg.com,mfs.ykimg.com
-
-cname=ui.tudou.com,ui.tudouui.com
