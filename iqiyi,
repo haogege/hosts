@@ -23,14 +23,37 @@ cname=static.qiyi.com,static.dns.iqiyi.com
 #cmcc
 cname=static.dns.iqiyi.com,wscmnzzjngtxdl01.dns.iqiyi.com
 
+
 #crcc
 cname=static.dns.iqiyi.com,wscrtzshngimdl01.dns.iqiyi.com
 
+cname=data.video.qiyi.com,data.video.dns.iqiyi.com
+cname=data.video.dns.iqiyi.com,wscmnzzjngdvdl01.dns.iqiyi.com
+
+cname=cache.video.qiyi.com,cache.video.dns.iqiyi.com
+cname=cache.video.dns.iqiyi.com,wscmnzjyngcvdl01.dns.iqiyi.com
+
+cname=policy.video.iqiyi.com,static.dns.iqiyi.com
+
+cname=www.iqiyi.com,static.dns.iqiyi.com
+
+223.99.253.161  wscmnzjyngcvdl01.dns.iqiyi.com
+223.99.253.163  wscmnzjyngcvdl01.dns.iqiyi.com
+
+218.205.74.143  wscmnzzjngdvdl01.dns.iqiyi.com
+218.205.74.142  wscmnzzjngdvdl01.dns.iqiyi.com
+
+#crcc
 122.72.120.116  wscrtzshngimdl01.dns.iqiyi.com
 122.72.120.103  wscrtzshngimdl01.dns.iqiyi.com
 122.72.120.118  wscrtzshngimdl01.dns.iqiyi.com
 122.72.120.111  wscrtzshngimdl01.dns.iqiyi.com
 122.72.120.113  wscrtzshngimdl01.dns.iqiyi.com
+122.72.120.116  wscrtzshngtxdl01.dns.iqiyi.com
+122.72.120.103  wscrtzshngtxdl01.dns.iqiyi.com
+122.72.120.118  wscrtzshngtxdl01.dns.iqiyi.com
+122.72.120.111  wscrtzshngtxdl01.dns.iqiyi.com
+122.72.120.113  wscrtzshngtxdl01.dns.iqiyi.com
 
 #zhejiang cmcc
 218.205.74.134  wscmnzzjngimdl01.dns.iqiyi.com
@@ -38,8 +61,22 @@ cname=static.dns.iqiyi.com,wscrtzshngimdl01.dns.iqiyi.com
 218.205.74.136  wscmnzzjngimdl01.dns.iqiyi.com
 218.205.74.154  wscmnzzjngimdl01.dns.iqiyi.com
 218.205.74.155  wscmnzzjngimdl01.dns.iqiyi.com
+218.205.74.134  wscmnzzjngtxdl01.dns.iqiyi.com
+218.205.74.135  wscmnzzjngtxdl01.dns.iqiyi.com
+218.205.74.136  wscmnzzjngtxdl01.dns.iqiyi.com
+218.205.74.154  wscmnzzjngtxdl01.dns.iqiyi.com
+218.205.74.155  wscmnzzjngtxdl01.dns.iqiyi.com
 
 #beijing cmcc
 111.13.57.14    wscmnzzjngimdl01.dns.iqiyi.com
 111.13.57.12    wscmnzzjngimdl01.dns.iqiyi.com
 111.13.57.18    wscmnzzjngimdl01.dns.iqiyi.com
+111.13.57.14    wscmnzzjngtxdl01.dns.iqiyi.com
+111.13.57.12    wscmnzzjngtxdl01.dns.iqiyi.com
+111.13.57.18    wscmnzzjngtxdl01.dns.iqiyi.com
+
+
+
+
+
+
