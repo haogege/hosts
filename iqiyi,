@@ -19,6 +19,11 @@ cname=img.dns.iqiyi.com,wscrtzshngimdl01.dns.iqiyi.com
 
 
 cname=static.qiyi.com,static.dns.iqiyi.com
+cname=yule.iqiyi.com,static.dns.iqiyi.com
+cname=yule.iqiyi.com,static.dns.iqiyi.com
+cname=yule.iqiyi.com,static.dns.iqiyi.com
+cname=yule.iqiyi.com,static.dns.iqiyi.com
+cname=yule.iqiyi.com,static.dns.iqiyi.com
 
 #cmcc
 cname=static.dns.iqiyi.com,wscmnzzjngtxdl01.dns.iqiyi.com
