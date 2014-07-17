@@ -9,6 +9,8 @@ cname=pic7.qiyipic.com,img.dns.iqiyi.com
 cname=pic8.qiyipic.com,img.dns.iqiyi.com
 cname=pic9.qiyipic.com,img.dns.iqiyi.com
 
+cname=img7.qiyipic.com,img.dns.iqiyi.com
+
 #cmcc
 #cname=img.dns.iqiyi.com,wscmnzzjngimdl01.dns.iqiyi.com
 
@@ -16,10 +18,13 @@ cname=pic9.qiyipic.com,img.dns.iqiyi.com
 cname=img.dns.iqiyi.com,wscrtzshngimdl01.dns.iqiyi.com
 
 
+cname=static.qiyi.com,static.dns.iqiyi.com
 
+#cmcc
+cname=static.dns.iqiyi.com,wscmnzzjngtxdl01.dns.iqiyi.com
 
-
-
+#crcc
+cname=static.dns.iqiyi.com,wscrtzshngimdl01.dns.iqiyi.com
 
 122.72.120.116  wscrtzshngimdl01.dns.iqiyi.com
 122.72.120.103  wscrtzshngimdl01.dns.iqiyi.com
