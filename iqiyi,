@@ -13,10 +13,11 @@ cname=img7.qiyipic.com,img.dns.iqiyi.com
 
 #cmcc
 #cname=img.dns.iqiyi.com,wscmnzzjngimdl01.dns.iqiyi.com
+#cname=static.dns.iqiyi.com,wscmnzzjngtxdl01.dns.iqiyi.com
 
 #crcc
 cname=img.dns.iqiyi.com,wscrtzshngimdl01.dns.iqiyi.com
-
+cname=static.dns.iqiyi.com,wscrtzshngimdl01.dns.iqiyi.com
 
 cname=static.qiyi.com,static.dns.iqiyi.com
 cname=child.iqiyi.com,static.dns.iqiyi.com
@@ -31,23 +32,19 @@ cname=paike.iqiyi.com,static.dns.iqiyi.com
 cname=f.iqiyi.com,static.dns.iqiyi.com
 cname=edu.iqiyi.com,static.dns.iqiyi.com
 cname=business.iqiyi.com,static.dns.iqiyi.com
-
-#cmcc
-cname=static.dns.iqiyi.com,wscmnzzjngtxdl01.dns.iqiyi.com
-
-
-#crcc
-cname=static.dns.iqiyi.com,wscrtzshngimdl01.dns.iqiyi.com
+cname=mil.iqiyi.com,static.dns.iqiyi.com
+cname=ad.iqiyi.com,static.dns.iqiyi.com
+cname=auto.iqiyi.com,static.dns.iqiyi.com
+cname=v.iqiyi.com,static.dns.iqiyi.com
+cname=policy.video.iqiyi.com,static.dns.iqiyi.com
+cname=vip.iqiyi.com,static.dns.iqiyi.com
+cname=www.iqiyi.com,static.dns.iqiyi.com
 
 cname=data.video.qiyi.com,data.video.dns.iqiyi.com
 cname=data.video.dns.iqiyi.com,wscmnzzjngdvdl01.dns.iqiyi.com
 
 cname=cache.video.qiyi.com,cache.video.dns.iqiyi.com
 cname=cache.video.dns.iqiyi.com,wscmnzjyngcvdl01.dns.iqiyi.com
-
-cname=policy.video.iqiyi.com,static.dns.iqiyi.com
-
-cname=www.iqiyi.com,static.dns.iqiyi.com
 
 223.99.253.161  wscmnzjyngcvdl01.dns.iqiyi.com
 223.99.253.163  wscmnzjyngcvdl01.dns.iqiyi.com
