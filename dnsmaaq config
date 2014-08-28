@@ -364,3 +364,139 @@ address=/tp1.sinaimg.cn/122.70.142.160
 address=/tp2.sinaimg.cn/122.70.142.160
 address=/tp3.sinaimg.cn/122.70.142.160
 address=/tp4.sinaimg.cn/122.70.142.160
+
+
+127.0.0.1 localhost
+111.206.217.48  misc.web.xunlei.com
+111.1.59.59     www.163.com
+111.13.100.114  www.hao123.com
+
+
+31.13.82.32     pixel.facebook.com
+31.13.79.81     facebook.com
+31.13.79.81     www.facebook.com
+31.13.79.81     graph.facebook.com
+31.13.79.81     api.facebook.com
+31.13.79.81     developers.facebook.com
+31.13.79.81     m.facebook.com
+31.13.79.81     touch.facebook.com
+
+#baidu
+111.13.100.92 www.a.shifen.com
+111.13.100.91 www.a.shifen.com
+
+#youku
+221.181.195.121 mob-w.youku.com
+
+111.13.127.40 c.youku.com
+
+122.72.120.172 sh-crtc-s.youku.com
+122.72.120.171 sh-crtc-s.youku.com
+
+221.181.195.28 nj-mobile-s.youku.com
+221.181.195.29 nj-mobile-s.youku.com
+221.181.195.30 nj-mobile-s.youku.com
+
+
+122.72.120.201 mfs.ykimg.com
+122.72.120.202 mfs.ykimg.com
+122.72.120.203 mfs.ykimg.com
+122.72.120.204 mfs.ykimg.com
+122.72.120.205 mfs.ykimg.com
+122.72.120.206 mfs.ykimg.com
+
+221.181.195.47 stat.youku.com
+221.181.195.49 stat.youku.com
+221.181.195.50 stat.youku.com
+122.72.120.175 stat.youku.com
+122.72.120.176 stat.youku.com
+122.72.120.177 stat.youku.com
+122.72.120.178 stat.youku.com
+
+111.13.127.111 bj-m-player.youku.com
+111.13.127.113 bj-m-player.youku.com
+111.13.127.112 bj-m-player.youku.com
+
+122.72.120.181 sh-crtc-k.youku.com
+122.72.120.180 sh-crtc-k.youku.com
+122.72.120.179 sh-crtc-k.youku.com
+
+221.181.195.39 nj-mob-k.youku.com
+221.181.195.40 nj-mob-k.youku.com
+221.181.195.41 nj-mob-k.youku.com
+221.181.195.46 nj-mob-k.youku.com
+221.181.195.48 nj-mob-k.youku.com
+221.181.195.52 nj-mob-k.youku.com
+
+111.13.127.43 bj-m-i.youku.com
+
+221.181.195.122 mob-v.youku.com
+
+111.13.127.41 bj-m-comments.youku.com
+
+111.13.127.47 bj-m-yws.youku.com
+
+111.13.127.106 bj-m-cfg-ykpp-navi.youku.com
+111.13.127.107 bj-m-cfg-ykpp-navi.youku.com
+
+111.13.127.153 bj-m-yk-pp-navi.youku.com
+111.13.127.154 bj-m-yk-pp-navi.youku.com
+111.13.127.155 bj-m-yk-pp-navi.youku.com
+111.13.127.159 bj-m-yk-pp-navi.youku.com
+111.13.127.160 bj-m-yk-pp-navi.youku.com
+111.13.127.161 bj-m-yk-pp-navi.youku.com
+
+#tudou
+112.25.58.4 css.tudouui.com
+112.25.58.5 css.tudouui.com
+
+122.72.120.209 css.tudouui.com
+122.72.120.210 css.tudouui.com
+
+112.25.58.5 js.tudouui.com
+112.25.58.4 js.tudouui.com
+
+122.72.120.210 js.tudouui.com
+122.72.120.209 js.tudouui.com
+122.72.120.210 ui.tudouui.com
+122.72.120.209 ui.tudouui.com
+
+112.25.58.5 ui.tudouui.com
+112.25.58.4 ui.tudouui.com
+
+112.25.58.6 www.tudou.com
+112.25.58.7 www.tudou.com
+
+122.72.120.211 www.tudou.com
+122.72.120.212 www.tudou.com
+
+112.25.58.6 channels.tudou.com
+112.25.58.7 channels.tudou.com
+
+122.72.120.211 channels.tudou.com
+122.72.120.212 channels.tudou.com
+
+122.72.120.211 tudou.com
+122.72.120.212 tudou.com
+
+#58.83.178.16 v2.tudou.com
+#58.83.178.18 v2.tudou.com
+#58.83.178.15 v2.tudou.com
+#58.83.178.17 v2.tudou.com
+
+#sohu#
+122.72.87.8   gs.a.sohu.com
+
+221.179.177.28  gv.a.sohu.com
+221.179.180.28  gv.a.sohu.com
+
+221.179.180.8   gd.a.sohu.com
+221.179.180.6   gd.a.sohu.com
+221.179.180.4   gd.a.sohu.com
+221.179.180.2   gd.a.sohu.com
+
+111.13.123.152  gdtv.a.sohu.com
+111.13.123.151  gdtv.a.sohu.com
+
+#sina weibo#
+122.70.142.160  sinajs.xdwscache.glb0.lxdns.com
