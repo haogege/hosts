@@ -17,7 +17,7 @@ cname=img7.qiyipic.com,img.dns.iqiyi.com
 
 #crcc
 cname=img.dns.iqiyi.com,wscrtzshngimdl01.dns.iqiyi.com
-cname=static.dns.iqiyi.com,wscrtzshngimdl01.dns.iqiyi.com
+cname=static.dns.iqiyi.com,wscrtzshngtxdl01.dns.iqiyi.com
 
 cname=static.qiyi.com,static.dns.iqiyi.com
 cname=child.iqiyi.com,static.dns.iqiyi.com
