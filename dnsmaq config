@@ -1,4 +1,4 @@
-#指定配置文件
+#指定配置文件目录
 #conf-dir=/etc/dnsmasq2
 
 #check dnssec resource record
