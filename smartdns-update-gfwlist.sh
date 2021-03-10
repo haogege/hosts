@@ -3,7 +3,7 @@
 # Update GFWList
 
 INPUT_FILE=$(mktemp)
-OUTPUT_FILE="/config/smartdns.d/gfwlist.conf"
+OUTPUT_FILE="/etc/smartdns.d/gfwlist.conf"
 
 PROXYDNS_NAME="proxydns"
 
